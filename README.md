@@ -1,8 +1,8 @@
 > **Zenodo DOI:** Pending — Target publication 2026-07-25
 
-# PP-SPEC-016 · HV-MCP — Proof Protocol MCP Interface Standard
+# PP-SPEC-017 · HV-MCP — Proof Protocol MCP Interface Standard
 
-**Document ID:** PP-SPEC-016  
+**Document ID:** PP-SPEC-017  
 **Version:** 0.1 - Draft  
 **Status:** Draft  
 **License:** CC BY 4.0  
