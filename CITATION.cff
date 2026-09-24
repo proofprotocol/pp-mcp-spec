@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you reference or build on this work, please cite it as below."
+title: "PP-SPEC-017: HV-MCP: Proof Protocol MCP Interface Standard"
+authors:
+  - family-names: Ellrod
+    given-names: Craig
+    affiliation: "Nebulonium, Inc. (HACKERverse)"
+version: "0.1"
+date-released: 2026-07-16
+doi: 10.5281/zenodo.21404841
+license: CC-BY-4.0
+url: "https://proofprotocol.io"
+repository-code: "https://github.com/proofprotocol/pp-mcp-spec"
+preferred-citation:
+  type: standard
+  title: "PP-SPEC-017: HV-MCP: Proof Protocol MCP Interface Standard"
+  authors:
+    - family-names: Ellrod
+      given-names: Craig
+  year: 2026
+  month: 7
+  publisher:
+    name: "Proof Economy Standards Alliance (PESA)"
+  doi: 10.5281/zenodo.21404841
+  url: "https://github.com/proofprotocol/pp-mcp-spec"
+  license: CC-BY-4.0
