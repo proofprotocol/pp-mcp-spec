@@ -1,0 +1,25 @@
+{
+  "title": "PP-SPEC-017: HV-MCP: Proof Protocol MCP Interface Standard",
+  "upload_type": "publication",
+  "creators": [
+    {
+      "name": "Ellrod, Craig",
+      "affiliation": "Nebulonium, Inc. (HACKERverse)"
+    }
+  ],
+  "description": "PP-SPEC-017: HV-MCP: Proof Protocol MCP Interface Standard",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "proof-protocol",
+    "mcp"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/proofprotocol/pp-mcp-spec",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "publication_type": "technicalnote"
+}
